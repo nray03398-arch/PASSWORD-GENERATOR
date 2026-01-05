@@ -1,0 +1,38 @@
+body {
+  background: #f2f2f2;
+  font-family: Arial;
+}
+
+.box {
+  width: 300px;
+  background: white;
+  padding: 20px;
+  margin: 100px auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px gray;
+}
+
+h2 {
+  text-align: center;
+}
+
+.options label {
+  display: block;
+  margin: 5px 0;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#result {
+  width: 100%;
+  margin-top: 10px;
+  padding: 8px;
+}
